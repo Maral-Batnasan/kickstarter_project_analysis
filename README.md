@@ -52,9 +52,3 @@ Develop a classification model to predict whether a Kickstarter project will be 
 - **Classification Model Accuracy:** 80.16%
 - **Clusters Identified:** 7, each with distinct characteristics contributing to platform insights.
 
----
-
-## 🌟 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/kickstarter-project-analysis
