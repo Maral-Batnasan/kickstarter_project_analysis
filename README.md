@@ -1,4 +1,4 @@
-## 🚀 Kickstarter Project Analysis
+## 🚀 Kickstarter Project Analysis 
 
 ## 📊 Project Objective
 Develop a classification model to predict whether a Kickstarter project will be **"successful"** or **"failed"** at launch and create a clustering model to group similar projects for meaningful business insights.
